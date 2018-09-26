@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MySocketJar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MySocketJar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
